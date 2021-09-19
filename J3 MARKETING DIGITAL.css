@@ -3,7 +3,7 @@
 
 .container-fluid {
 
-    height: 125px;
+    height: 100px;
     background-color: white;
     justify-content: flex-end;
 }
@@ -35,10 +35,31 @@
 
 .img {
 
-    height: 325px;
+    height: 450px;
     background-color: rgba(79, 79, 160, 0.644);
     padding-top: 90px;
     padding-left: 90px;
+    background-image: url(pano\ de\ fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 
+}
+
+.pe-none {
+
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.pe-two {
+
+    color: white;
+    font-size: 20px;
+}
+
+.last {
+
+    color: white;
 
 }
