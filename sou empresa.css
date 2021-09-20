@@ -1,45 +1,10 @@
-@import url(./bootstrap.min.css);
-
-
-.container-fluid {
-
-    height: 100px;
-    background-color: white;
-    justify-content: flex-end;
-}
-
-}
-
-#vagas {
-
-    color: rgb(73, 138, 73);
-    justify-content: flex-end;
-
-    
-}
-
-#empresa, #login{
-
-    color: rgb(115, 115, 156);
-    justify-content: flex-end;
-
-}
-
-#cadastre-se {
-
-    background-color: blue;
-    color: white;
-    justify-content: flex-end;
-
-}
-
 .img {
 
     height: 450px;
     background-color: rgba(79, 79, 160, 0.644);
     padding-top: 90px;
     padding-left: 90px;
-    background-image: url(pano\ de\ fundo.jpg);
+    background-image: url(sou\ empresa.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -49,32 +14,45 @@
 .pe-none {
 
     color: whitesmoke;
-    font-size: 25px;
+    font-size: 35px;
+    text-align: center;
+    
+    
 }
 
 .pe-two {
 
     color: white;
     font-size: 20px;
+    text-align: center;
 }
+
+.pe-three {
+
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
 
 .last {
 
     color: white;
+    text-align: center;
 
 }
-
 
 .p1, .p3, .p5 {
 
     font-size: 15px;
     color: blue;
+    text-align: center;
 }
 
 .p2, .p4, .p6 {
 
     font-size: 10px;
-    align-self-center
+    text-align: center;
 
 }
 
@@ -85,3 +63,4 @@
     justify-content: space-evenly;
 
 }
+
