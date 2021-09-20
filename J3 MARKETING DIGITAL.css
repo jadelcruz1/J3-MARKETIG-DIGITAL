@@ -63,3 +63,24 @@
     color: white;
 
 }
+
+
+.p1, .p3, .p5 {
+
+    font-size: 15px;
+    color: blue;
+}
+
+.p2, .p4, .p6 {
+
+    font-size: 10px;
+
+}
+
+.class1, .class2, .class3 {
+
+    display: inline-block;
+    text-align: justify;
+    justify-content: space-evenly;
+
+}
